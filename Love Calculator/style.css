@@ -1,0 +1,13 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.text-center{
+    color: black;
+}
+body{
+    background-image: url(Romantic.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;    
+}

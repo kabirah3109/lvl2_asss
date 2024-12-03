@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(/cloud_image.avif);
+    background-repeat: no-repeat;
+    background-size: cover;    
+}
+h2{
+    color: bisque;
+}
+button{
+    background-color: bisque!important;
+    color: black !important;
+}
+p{
+    text-align: center;
+}
